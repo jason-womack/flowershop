@@ -6,6 +6,7 @@
 $ cd flowershop
 $ ./sbt
 > container:start
+> ~;copy-resources; aux-compile
 > browse
 ```
 
